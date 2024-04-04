@@ -1,2 +1,2 @@
 print("kikerikii")
-echo pede
+print("kool")
