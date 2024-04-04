@@ -1,1 +1,2 @@
-print("kaka")
+print("kikerikii")
+echo pede
